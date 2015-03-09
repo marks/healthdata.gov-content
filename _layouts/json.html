@@ -1,8 +1,7 @@
 ---
-title: 'Content Page - HealthData.gov'
+title: 'JSON Endpoint Templayte'
 ---
 {
-  "title":"{{page.title}}",
-  "html_content":"{{content}}",
-  "metadata":{{page || jsonify}}
+  "page":{{page || jsonify}},
+  "site":{{site || jsonify}}
 }
