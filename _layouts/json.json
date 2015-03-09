@@ -1,0 +1,7 @@
+---
+title: 'Content Page - HealthData.gov'
+---
+{
+  "title":"{{page.title}}",
+  "html_content":{{content}}
+}
