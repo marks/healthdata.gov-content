@@ -1,3 +1,5 @@
 github_pages_callback({
-  "page":{{page | jsonify}}
+  "page_metadata":{{page | jsonify}}
+  "title":{{page.title}},
+  "contents":{{contents}}
 })
