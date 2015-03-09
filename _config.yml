@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /healthdata.gov-content
 permalink: pretty
 markdown: rdiscount
 prose:
