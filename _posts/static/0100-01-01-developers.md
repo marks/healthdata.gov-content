@@ -68,6 +68,7 @@ includes_section_html_elements: true
   </div>
   <div class='row spacer'>
     <div class='small-12 text-center columns'>
+      <br />
       <a href='http://dev.socrata.com/' class='fndtn-button small'>Socrata Developers site <span class='fa fa-external-link-square'></span></a>
     </div>
   </div>
