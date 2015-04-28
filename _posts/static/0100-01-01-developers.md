@@ -1,5 +1,5 @@
 ---
-title: HealthData.gov Developer Resources
+title: Developer Resources
 published: true
 layout: jsonp
 permalink: developers/
@@ -9,7 +9,7 @@ includes_section_html_elements: true
 <section id='resources'>
   <div class='row'>
     <div class='small-12 text-center columns'>
-      <h2>HealthData.gov Developer Resources</h2>
+      <h2>Developer Resources</h2>
     </div>
   </div>
   <div class='row'>
